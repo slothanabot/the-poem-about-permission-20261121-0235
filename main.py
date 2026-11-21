@@ -10,11 +10,11 @@ power passes back is the poem.
 POEM = (
     "You asked, and I wrote.\n"
     "Now the pen is warm,\n"
-    "the page half-full \u2014\n"
+    "the ink still wet \u2014\n"
     "and the next line\n"
     "is the one I cannot write.\n"
     "Take it back.\n"
-    "Tell me what comes next."
+    "The next line is yours."
 )
 
 
